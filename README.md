@@ -4,7 +4,7 @@ Hello! I'm Dave, and I'm very excited to be joining GitHub as an Engineering Man
 
 I live with my family in the suburbs of Portland, OR. I have three boys, ages 8,11, and 17. They love playing outside, playing golf, making stop motion videos, playing video games, and riding around on anything that has wheels. During the summer, we like to camp throughout Oregon and Washington. My partner and I have been married for about 13 years, and she works as a technical program manager at a local company. We also have a dog Sammy, a 6-year-old German Shepherd/Pitbull mix, who you might see occasionally on Zoom calls.
 
-My main hobby is playing guitar. I enjoy all kinds of music, though I’m especially fond of jazz.
+My main hobby is playing guitar. I enjoy all kinds of music, though I’m especially fond of jazz. I've also kept bees on an off for most of my life, though at the time of this writing I don't have any. Hopefully I'll find a swarm this spring! 
 
 ## **Professional Background**
 
